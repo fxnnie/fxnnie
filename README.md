@@ -1,3 +1,6 @@
 ## ![fxnnie](https://github.com/fxnnie/fxnnie/blob/main/fxnnie.png)
 
-###  **[website](https://feds.lol/fxnnie)**
+<div align="center">
+  <a href="https://feds.lol/fxnnie">website</a>
+</div>
+
