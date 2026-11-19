@@ -11,4 +11,4 @@ mode = "smart"
 bucket = "./assets"
 
 [vars]
-BASELINK = "store-cdn.repressoh.it"
+BASELINK = "fxnnie.github.io"
